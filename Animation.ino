@@ -206,7 +206,6 @@ void loop() {
   }
 
   // 👁️ MODE EYES NORMAL
-  eyes.update();
   delay(20);
 
   unsigned long currentTime = millis();
